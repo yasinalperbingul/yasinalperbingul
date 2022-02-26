@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Yasin Alper
-I gratudated from Electrical and Electronical Engineering and also I am Senior Student in Computer Engineering, Marmara University. I am focusing on Software Development more since graduated from Electrical and Electronics Engineering. You can view my works on this page.
+I graduated from Electrical and Electronical Engineering and also I am Senior Student in Computer Engineering, Marmara University. I am focusing on Software Development more since graduated from Electrical and Electronics Engineering. You can view my works on this page.
 
 <strong><i>I want to make world a better place. For this I am working hard and trying to be better than yesterday.</i></strong>
 
