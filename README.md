@@ -5,7 +5,7 @@ I graduated from Electrical and Electronical Engineering and also I am Senior St
 
 <strong>Skills:</strong> C / Java / Python / JavaScript / HTML / CSS
 
-- 🔭 I’m currently working on Flutter Mobile Development & Front-End Web Development
+- 🔭 I’m currently working on Front-End & Back-End Web Development
 - 🌱 I’m currently learning JavaScript 
 - 📫 How to reach me: yasinalperbingul@gmail.com 
 
