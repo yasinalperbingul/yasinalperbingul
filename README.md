@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Yasin Alper
-I graduated from Electrical and Electronical Engineering and also I am Senior Student in Computer Engineering, Marmara University. I am focusing on Software Development more since graduated from Electrical and Electronics Engineering. You can view my works on this page.
+I graduated as a top student from Marmara University, majoring in Electrical and Electronics Engineering. Additionally, I successfully completed a Double Major Program in Computer Engineering, alongside my primary major, with a stronger emphasis on Software Development following my graduation. Currently, I work full-time as a Back-End Developer at Segmentify, where I specialize in Java and Spring Technologies.
 
 <strong><i>I want to make world a better place. For this I am working hard and trying to be better than yesterday.</i></strong>
 
